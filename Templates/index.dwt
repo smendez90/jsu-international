@@ -312,18 +312,19 @@
 												<div class="container">
 													<div class="row">
 														<div class="col-md-3 md-margin-bottom-30">
-															<h2>About JSU</h2>
+															<a href="general-info.html"><h2>About JSU</h2></a>
 															<ul class="dropdown-link-list">
 																<li><a href="#">General Information</a></li>
 																<li><a href="#">Location</a></li>
-																<li><a href="#">Viewbook</a></li>
+																<li><a href="#">Academics</a></li>
 																<li><a href="#">Housing</a></li>
 																<li><a href="#">Student Life</a></li>
+																<li><a href="#">Athletics</a></li>
 																<li><a href="#">Campus Map</a></li>
 															</ul>
 														</div>
 														<div class="col-md-3 md-margin-bottom-30">
-															<a href="connect"><h2>Connect</h2></a>
+															<a href="connect.html"><h2>Connect</h2></a>
 															<ul class="dropdown-link-list">
 																<li><a href="#">Social Media</a></li>
 																<li><a href="#">Newsletter</a></li>
