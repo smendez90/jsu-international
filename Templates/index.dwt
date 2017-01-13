@@ -663,12 +663,14 @@ Apply									</a>
 			<footer class="copyright">
 				<div class="container">
 					<ul class="list-inline terms-menu">
-						<li>2015 &copy; All Rights Reserved.</li>
-						<li class="home"><a href="#">Terms of Use</a></li>
-						<li>Made with <i class="fa fa-heart"> at </a> JSU Interactive </div>
+						<li>Last Review on January, 2017</li>
+						<li>Made with <i class="fa fa-heart"></i><a href="#"> JSU Interactive</a> </li>
+					</ul>
+				</div>
+			</footer>
+		</div>				
 		<!--=== End Footer v8 ===-->
 </div><!--/wrapper-->
-mpulsory -->
 <script type="text/javascript" src="assets/plugins/jquery/jquery.min.js"></script>
 <script type="text/javascript" src="assets/plugins/jquery/jquery-migrate.min.js"></script>
 <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
