@@ -57,7 +57,7 @@
 							<div class="topbar-toggler"><span class="fa fa-angle-down"></span></div>
 							<ul class="topbar-list topbar-menu">
 								<li><a href="#">Contact</a></li>
-								<li><a href="#">FAQ</a></li>
+								<li><a href="faq.html">FAQ</a></li>
 								<li><a href="#">Calendar</a></li>
 								<li>
 									<a href="javascript:void(0);">More</a>
