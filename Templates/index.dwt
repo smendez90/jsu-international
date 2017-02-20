@@ -370,15 +370,15 @@
 						</div>
 
 						<div class="col-md-3 col-sm-6 md-margin-bottom-50">
+							<!--
 							<h2>Tags</h2>
-							<!-- Tag Links v4 -->
 							<ul class="tags-v4 margin-bottom-40">
 								<li><a class="rounded-4x" href="#">Business</a></li>
 								<li><a class="rounded-4x" href="#">Education</a></li>
 								<li><a class="rounded-4x" href="#">Web</a></li>
 								<li><a class="rounded-4x" href="#">Entrepreneurship</a></li>
 							</ul>
-							<!-- End Tag Links v4 -->
+							-->
 
 							<h2>Useful Links</h2>
 							<!-- Footer Lists -->
