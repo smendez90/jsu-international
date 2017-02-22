@@ -324,6 +324,7 @@ h3.title-v3-xs {
 	position: relative;
 	margin-bottom: 20px;
 	padding-bottom: 15px;
+	font-weight: bold;
 }
 
 .headline-center h2:after {
