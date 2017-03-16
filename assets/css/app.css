@@ -1865,11 +1865,11 @@ blockquote.hero.hero-default small {
 
 /*Panel Red*/
 .panel-red {
-	border-color: #e74c3c;
+	border-color: #cc0000;
 }
 
 .panel-red > .panel-heading {
-	background: #e74c3c;
+	background: #cc0000;
 }
 
 /*Panel Green*/
