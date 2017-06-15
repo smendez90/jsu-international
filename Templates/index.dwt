@@ -57,29 +57,7 @@
 							<div class="topbar-toggler"><span class="fa fa-angle-down"></span></div>
 							<ul class="topbar-list topbar-menu">
 								<li><a href="#">Contact</a></li>
-								<li><a href="faq.html">FAQ</a></li>
-								<li><a href="#">Calendar</a></li>
-								<li>
-									<a href="javascript:void(0);">More</a>
-									<ul class="topbar-dropdown">
-										<li><a href="#">Recruiters</a></li>
-										<li><a href="#">Subscribe</a></li>
-										<li class="topbar-submenu">
-											<a href="javascript:void(0);">Submenu</a>
-											<ul class="topbar-submenu-in">
-												<li><a href="#">Submenu</a></li>
-												<li><a href="#">Submenu</a></li>
-												<li class="topbar-submenu">
-													<a href="javascript:void(0);">Submenu</a>
-													<ul class="topbar-submenu-in">
-														<li><a href="#">Submenu</a></li>
-														<li><a href="#">Submenu</a></li>
-													</ul>
-												</li>
-											</ul>
-										</li>
-									</ul>
-								</li>
+								<li><a href="faq.html">FAQ</a></li>							
 								<!-- Login & Register 
 								<li class="cd-log_reg hidden-sm hidden-md hidden-lg"><strong><a class="cd-signin" href="javascript:void(0);">Login</a></strong></li>
 								<li class="cd-log_reg hidden-sm hidden-md hidden-lg"><strong><a class="cd-signup" href="javascript:void(0);">Register</a></strong></li>
@@ -287,54 +265,12 @@
 								End Stories -->
 								
 								<!-- About -->
-								<li class="dropdown mega-menu-fullwidth">
-									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
-										About
-									</a>
-									<ul class="dropdown-menu">
-										<li>
-											<div class="mega-menu-content">
-												<div class="container">
-													<div class="row">
-														<div class="col-md-4 md-margin-bottom-30">
-															<a href="about.html"><h2>About JSU</h2></a>
-<ul class="dropdown-link-list">
-															<li><a href="#">Welcome</a></li>
-															<li><a href="#GeneralInformation">General Information</a></li>
-															<li><a href="#">Academics</a></li>
-															<li><a href="#">Housing</a></li>											<li><a href="#">Location</a></li>
-															<li><a href="#">Campus Map</a></li>
-															</ul>
-														</div>
-														<div class="col-md-4 md-margin-bottom-30">
-															<a href="connect.html"><h2>Connect</h2></a>
-															<ul class="dropdown-link-list">
-																<li><a href="#">Social Media</a></li>
-																<li><a href="#">Newsletter</a></li>
-																<li><a href="#">Webinars</a></li>
-																<li><a href="#">Visit our Campus</a></li>
-															</ul>
-														</div>
-														<div class="col-md-4 md-margin-bottom-30">
-															<h2>Degree Listing</h2>
-															<ul class="dropdown-link-list">
-																<li><a href="degree-listing-undergraduate.html">Undergraduate</a></li>
-																<li><a href="degree-listing-graduate.html">Graduate</a></li>
-															</ul>
-														</div>
-													</div>
-												</div>
-											</div>
-										</li>
-									</ul>
-								</li>
-								<!-- End Archives -->
+						 <li class="dropdown mega-menu-fullwidth"><a href="about.html">About</a></li>
+								<!-- End About -->
 
-								<!-- Lifestyle -->
-						  <li class="dropdown mega-menu-fullwidth">
-									<a href="apply.html">Apply</a>
-								</li>
-								<!-- End Lifestyle -->
+								<!-- Apply -->
+						  <li class="dropdown mega-menu-fullwidth"><a href="apply.html">Apply</a></li>
+								<!-- End Apply -->
 
 								
 							</ul>
