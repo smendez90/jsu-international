@@ -56,7 +56,6 @@
 							<div class="topbar-time">JSU International Programs</div>
 							<div class="topbar-toggler"><span class="fa fa-angle-down"></span></div>
 							<ul class="topbar-list topbar-menu">
-								<li><a href="#">Contact</a></li>
 								<li><a href="faq.html">FAQ</a></li>							
 								<!-- Login & Register 
 								<li class="cd-log_reg hidden-sm hidden-md hidden-lg"><strong><a class="cd-signin" href="javascript:void(0);">Login</a></strong></li>
